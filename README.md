@@ -13,8 +13,6 @@ Este projeto é um exemplo de um sistema de autenticação utilizando tokens JWT
 
 Certifique-se de ter o Node.js instalado. Você pode baixá-lo em [nodejs.org](https://nodejs.org/).
 
-(Não se esqueça de ter o node_modules na pasta do projeto.)
-
 ## Instalação e Execução
 
 1. Clone o repositório para o seu ambiente local: `git clone https://github.com/seu-usuario/seu-repositorio.git`
@@ -23,14 +21,15 @@ Certifique-se de ter o Node.js instalado. Você pode baixá-lo em [nodejs.org](h
 
 3. Instale as dependências do servidor: `npm install`
 
-4. Inicie o servidor: `node server.js`
+4. Navegue `cd seu-diretorio` e instale as dependências na pasta do projeto `npm install express` e `npm install express` e `npm install cors`
 
-5. Abra outro terminal e navegue até o diretório do frontend: `cd seu-repositorio/frontend`
+5. Navege `cd seu-repositorio/backend` e Inicie o servidor: `node server.js`
 
+6. Abra outro terminal e navegue até o diretório do frontend: `cd seu-repositorio/frontend`
 
-6. Inicie o servidor frontend (por exemplo, usando o Live Server no VS Code).
+7. Inicie o servidor frontend (por exemplo, usando o Five Server no VS Code).
 
-7. Abra o navegador e acesse a URL do frontend (normalmente `http://localhost:5500`).
+8. Abra o navegador e acesse a URL do frontend (normalmente `http://localhost:5500`).
 
 ## Personalização
 
