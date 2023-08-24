@@ -15,15 +15,15 @@ Certifique-se de ter o Node.js instalado. Você pode baixá-lo em [nodejs.org](h
 
 ## Instalação e Execução
 
-1. Clone o repositório para o seu ambiente local: git clone https://github.com/seu-usuario/seu-repositorio.git
+1. Clone o repositório para o seu ambiente local: `git clone https://github.com/seu-usuario/seu-repositorio.git`
 
-2. Navegue até o diretório do backend: cd seu-repositorio/backend
+2. Navegue até o diretório do backend: `cd seu-repositorio/backend`
 
-3. Instale as dependências do servidor: npm install
+3. Instale as dependências do servidor: `npm install`
 
-4. Inicie o servidor: node server.js
+4. Inicie o servidor: `node server.js`
 
-5. Abra outro terminal e navegue até o diretório do frontend: cd seu-repositorio/frontend
+5. Abra outro terminal e navegue até o diretório do frontend: `cd seu-repositorio/frontend`
 
 
 6. Inicie o servidor frontend (por exemplo, usando o Live Server no VS Code).
