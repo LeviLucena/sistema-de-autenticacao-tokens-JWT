@@ -14,7 +14,7 @@ app.post("/login", (req, res) => {
   const { username, password } = req.body;
 
   // Aqui você deve verificar as credenciais no seu sistema de autenticação
-  if (username === "admin" && password === "Prodesp01") {
+  if (username === "admin" && password === "admin") {
     const payload = { username };
     const token = jwt.sign(payload, secretKey, { expiresIn: "1h" });
     res.json({ message: "Autenticado com sucesso!", token });
