@@ -2,6 +2,8 @@
 
 Este projeto é um exemplo de um sistema de autenticação utilizando tokens JWT (JSON Web Tokens). Ele consiste em um frontend simples em HTML, CSS e JavaScript, que se comunica com um servidor Node.js para autenticar usuários e gerar tokens JWT para autorização.
 
+![image](https://github.com/LeviLucena/sistema-de-autenticacao-tokens-JWT/assets/34045910/10452db0-0083-40a4-aafc-58e1c5be0c4d)
+
 ## Funcionalidades
 
 - Interface de usuário para inserção de nome de usuário e senha.
