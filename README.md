@@ -1,4 +1,4 @@
-# Sistema de Autenticação com Tokens JWT - Exemplo
+# Sistema de Autenticação com Tokens JWT
 
 Este projeto é um exemplo de um sistema de autenticação utilizando tokens JWT (JSON Web Tokens). Ele consiste em um frontend simples em HTML, CSS e JavaScript, que se comunica com um servidor Node.js para autenticar usuários e gerar tokens JWT para autorização.
 
