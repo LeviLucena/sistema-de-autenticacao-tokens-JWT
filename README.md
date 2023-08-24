@@ -12,6 +12,7 @@ Este projeto é um exemplo de um sistema de autenticação utilizando tokens JWT
 ## Pré-requisitos
 
 Certifique-se de ter o Node.js instalado. Você pode baixá-lo em [nodejs.org](https://nodejs.org/).
+
 (Não se esqueça de ter o node_modules na pasta do projeto.)
 
 ## Instalação e Execução
